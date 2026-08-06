@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TYPING SVG — cycles through 4 lines, purple to match theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A371F7&center=true&vCenter=true&width=620&lines=.NET+Full+Stack+Developer;Builder+of+vtucalc.in+%26+factory.nandan-shetty.in;Open+Source+Enthusiast;C%23+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A371F7&center=true&vCenter=true&width=620&lines=.NET+Full+Stack+Developer;Worked+on+vtucalc.in+%26+factory.nandan-shetty.in;Open+Source+Enthusiast;C%23+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
 <br/><br/>
 
 <!-- SKILL ICONS -->
