@@ -20,6 +20,15 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  STATS + STREAK — side by side                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nandan1234567&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&hide=issues&rank_icon=github" height="160" />&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=Nandan1234567&theme=tokyonight&hide_border=true&background=0d1117" height="160" />
+</div>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  PINNED REPOS                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
@@ -32,14 +41,7 @@
 </div>
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  STATS + STREAK — side by side                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nandan1234567&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&hide=issues&rank_icon=github" height="160" />&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Nandan1234567&theme=tokyonight&hide_border=true&background=0d1117" height="160" />
-</div>
-<br/>
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  ACTIVITY GRAPH — full width, purple accent                    -->
