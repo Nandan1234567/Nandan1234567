@@ -62,7 +62,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=a371f7)](https://linkedin.com/in/nandan-shetty)&nbsp;
 [![vtucalc.in](https://img.shields.io/badge/vtucalc.in-0d1117?style=flat-square&logo=googlechrome&logoColor=a371f7)](https://vtucalc.in)&nbsp;
 [![factory.nandan-shetty.in](https://img.shields.io/badge/factory.nandan--shetty.in-0d1117?style=flat-square&logo=googlechrome&logoColor=a371f7)](https://factory.nandan-shetty.in)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=a371f7)](mailto:shettynandan071@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=a371f7)](mail:shettynandan071@gmail.com)
 
 </div>
 
