@@ -52,9 +52,10 @@
 <!--  SOCIAL BADGES                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=a371f7)](https://linkedin.com/in/nandan-shetty)&nbsp;-->
+
   
 [![X](https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=a371f7)](https://x.com/legend721617)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=a371f7)](https://www.linkedin.com/in/nandan-shetty-b8b74a2a2)&nbsp;
 [![vtucalc.in](https://img.shields.io/badge/vtucalc.in-0d1117?style=flat-square&logo=googlechrome&logoColor=a371f7)](https://vtucalc.in)&nbsp;
 [![factory.nandan-shetty.in](https://img.shields.io/badge/factory.nandan--shetty.in-0d1117?style=flat-square&logo=googlechrome&logoColor=a371f7)](https://factory.nandan-shetty.in)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=a371f7)](mailto:shettynandan071@gmail.com)
