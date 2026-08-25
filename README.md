@@ -41,12 +41,12 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  ACTIVITY GRAPH — full width, purple accent                    -->
-<!-- ═══════════════════════════════════════════════════════════════ 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandan1234567&theme=react-dark&hide_border=true&bg_color=0d1117&color=a371f7&line=7c3aed&point=c4b5fd&area=true" width="100%" />
 </div>
 <br/> 
--->
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  SOCIAL BADGES                                                  -->
