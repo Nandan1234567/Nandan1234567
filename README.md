@@ -13,6 +13,7 @@
 <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,py,react,tailwind,postgres,docker,aws,nginx,git,vscode,postman&theme=dark&perline=7" />
 </div>
 <br/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nandan1234567&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&hide=issues&rank_icon=github" height="160" />
 
 
 
